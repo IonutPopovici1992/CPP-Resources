@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ForLoops", "ForLoops\ForLoops.vcxproj", "{FE545445-A6FF-4044-AAC9-2F929C6E2063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE545445-A6FF-4044-AAC9-2F929C6E2063}.Debug|x64.ActiveCfg = Debug|x64
+		{FE545445-A6FF-4044-AAC9-2F929C6E2063}.Debug|x64.Build.0 = Debug|x64
+		{FE545445-A6FF-4044-AAC9-2F929C6E2063}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE545445-A6FF-4044-AAC9-2F929C6E2063}.Debug|x86.Build.0 = Debug|Win32
+		{FE545445-A6FF-4044-AAC9-2F929C6E2063}.Release|x64.ActiveCfg = Release|x64
+		{FE545445-A6FF-4044-AAC9-2F929C6E2063}.Release|x64.Build.0 = Release|x64
+		{FE545445-A6FF-4044-AAC9-2F929C6E2063}.Release|x86.ActiveCfg = Release|Win32
+		{FE545445-A6FF-4044-AAC9-2F929C6E2063}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98E77809-D09D-4E32-B7E9-433C1FA25DB2}
+	EndGlobalSection
+EndGlobal
